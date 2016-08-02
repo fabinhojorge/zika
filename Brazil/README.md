@@ -16,6 +16,7 @@ Source: <http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-m
 \(Secretaria de Vigilância em Saúde − Ministério da Saúde\)
 
 Source: <http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-dengue>
+Source2: <http://portalsaude.saude.gov.br/index.php/situacao-epidemiologica-dados-zika>
 
     first report_date: 2016-04-02
     last report_date: ongoing
